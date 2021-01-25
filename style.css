@@ -1,0 +1,16 @@
+*,
+::after,
+::before{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+ul{
+    border: solid 2px}
+   
+   
+.item{
+    color: red;
+}
